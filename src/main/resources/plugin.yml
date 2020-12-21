@@ -1,0 +1,5 @@
+name: XpBarDamage
+version: ${project.version}
+main: me.mubio.xpbardamage.XpBarDamageMain
+api-version: 1.16
+authors: [ Mubio ]
